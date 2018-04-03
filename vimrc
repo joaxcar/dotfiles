@@ -25,3 +25,5 @@ nnoremap <leader><CR> :noh<CR>
 
 " jj as esc
 inoremap jj <esc>
+" CTRL-d as <Del> in insertmode
+inoremap <C-d> <Del>
